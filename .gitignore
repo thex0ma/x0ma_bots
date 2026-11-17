@@ -221,3 +221,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.env
+.env.local
+.env.development.local
+node_modules/
+venv/
+.venv/
+env/
+__pycache__/
+logs/
+.DS_Store
+Thumbs.db
+*.db
+*.log
+npm-debug.log*
+test.py
+notes.txt
+discordhelper.py
