@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -222,6 +223,8 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+=======
+>>>>>>> 3baa4b4 (Initial commit)
 .env
 .env.local
 .env.development.local
@@ -238,4 +241,8 @@ Thumbs.db
 npm-debug.log*
 test.py
 notes.txt
+<<<<<<< HEAD
 discordhelper.py
+=======
+discordhelper.py
+>>>>>>> 3baa4b4 (Initial commit)
